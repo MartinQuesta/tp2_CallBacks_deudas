@@ -1,0 +1,13 @@
+{
+  "type": "module",
+  "name": "tp2",
+  "version": "1.0.0",
+  "main": "",
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
